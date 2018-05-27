@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">trAIner</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Menu titles -->
+    <string name="menu_title_user_info">User Info</string>
+    <string name="menu_title_trainings">Trainings</string>
+    <string name="menu_title_nutrition">Nutrition</string>
+    <string name="menu_title_goals">Objectives</string>
+    <string name="menu_title_rate_app">Send</string>
+    <string name="menu_title_share">Share</string>
+
+
+    <!-- User Profile -->
+    <string name="title_activity_user">User Profile</string>
+
+    <!-- Trainings -->
+    <string name="title_activity_trainings">Trainings</string>
+
+    <string name="title_new_trainings">We just chose a workout for you</string>
+    <string name="text_new_trainings">According to your preferences, atmospheric conditions and your goal, we have selected a training session for you.</string>
+    <string name="button_ok_new_trainings">OK, let´ start.</string>
+    <string name="button_ko_new_trainings">Not right now</string>
+
+    <string name="title_finish_trainings">Have you finished with the training? Tell us what you think about it</string>
+    <string name="text_finish_trainings">If you have finished, we will proceed to save all the information collected from it. We may ask you some questions so we can suggest better trainings in the future.</string>
+    <string name="button_ok_finish_trainings">Ok, lets finish with this.</string>
+    <string name="button_ko_finish_trainings">Not yet</string>
+
+    <!-- Nutritional -->
+    <string name="title_activity_nutrition">Nutrition</string>
+    <string name="title_card_nutrition">Coming soon</string>
+
+    <!-- Objectives -->
+    <string name="title_activity_objectives">Objective</string>
+
+    <string name="objective_title_gain_strength">Objective: Gain Strength</string>
+    <string name="objective_title_loss_weight">Objective: Lose Weight</string>
+
+    <string name="objective_text_gain_strength">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="objective_text_loss_weight">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="error_login">Error in login call</string>
+    <string name="error_register">Error in register call</string>
+    <string name="error_network">Error on network</string>
+    <string name="error_field_required">Error: field required</string>
+    <string name="error_invalid_password">Error: invalid password</string>
+    <string name="error_invalid_email">Error: invalid email</string>
+    <string name="ok_register">Registered correctly</string>
+    <string name="title_app">trAIner</string>
+    <string name="prompt_email">email@gmail.com</string>
+    <string name="prompt_password">******</string>
+    <string name="action_sign_in_short">Sign In</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="prompt_identifier">Id</string>
+    <string name="tab_text_1">LogIn</string>
+    <string name="tab_text_2">Register</string>
+    <string name="ok_login">Logged successfully</string>
+    <string name="title_activity_sign_in">Sign In</string>
+    <string name="user_preferences_subtitle">User information to suggest training</string>
+    <string name="title_activity_actual_training">ActualTrainingActivity</string>
+
+
+</resources>

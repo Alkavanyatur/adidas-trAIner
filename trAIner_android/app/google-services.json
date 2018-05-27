@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "948341189317",
+    "firebase_url": "https://trainer-hack.firebaseio.com",
+    "project_id": "trainer-hack",
+    "storage_bucket": "trainer-hack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948341189317:android:893db6e399162c05",
+        "android_client_info": {
+          "package_name": "es.trainer.trainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948341189317-qu9s7s2a8jg73c2ggcaipq0r1gvbgj90.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "948341189317-qu9s7s2a8jg73c2ggcaipq0r1gvbgj90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKyOQq9JhhoYW_1qBof4mTP1U6JXcifVQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
